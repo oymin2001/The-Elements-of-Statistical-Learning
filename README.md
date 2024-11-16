@@ -2,13 +2,11 @@
 
 This repository contains presentation materials and example code based on the book **_The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition_** (Springer Series in Statistics). It provides slides summarizing key concepts covered in the book and example code demonstrating practical applications.
 
-## ![Textbook Cover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HnhyXWg_7QOHl9av6LM4nixNn5WEO0Q9HfSdIZT8coAiQLJC)
+## ![Textbook Cover](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9780387848570.jpg)
 
 _**The Elements of Statistical Learning**_  
 Authors: Trevor Hastie, Robert Tibshirani, Jerome Friedman  
 Publisher: Springer, 2nd Edition  
-
-_(Replace "URL_TO_TEXTBOOK_IMAGE" with the actual URL of the textbook cover image.)_
 
 ## 📚 **Overview**
 
